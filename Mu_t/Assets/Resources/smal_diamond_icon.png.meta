@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smal_diamond_icon_0: 627470728437801558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
